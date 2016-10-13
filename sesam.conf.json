@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "customers",
+    "name": "Update customers",
+    "type": "pipe",
+    "source": {
+      "type": "http_endpoint"
+    }
+  }
+]
