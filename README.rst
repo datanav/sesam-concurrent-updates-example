@@ -46,8 +46,8 @@ The scenario is a simple "customer" application. You can retrieve an existing cu
 the service will try to resolve the conflicts automatically using the history provided by Sesam.
 
 
-.. figure:: sequence.jpg
-:alt: a sequence diagram for the example
+.. figure:: sequence.png
+    :alt: a sequence diagram for the example
 
     A sequence diagram showing where and when the conflict resolution is done.
 
